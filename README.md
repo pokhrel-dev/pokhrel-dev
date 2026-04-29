@@ -1,18 +1,24 @@
-# Senior Engineer 👋
+# Senior Software & Data Engineer 👋
 
-Senior Software Engineer with 6+ years of experience specializing in building scalable cloud-native systems, data-intensive applications, and automated workflows.
+Senior Engineer with 6+ years of experience bridging the gap between high-performance Java backend systems and scalable data engineering pipelines. I specialize in building robust, cloud-native architectures that handle complex data processing at scale.
 
-## 🚀 Technical Skills
+## 🚀 Technical Expertise
 
-* **Languages:** Java 17, Java 8, Python (Pandas)
-* **Backend & Data:** Spring Boot, REST APIs, Microservices, Databricks, Apache Spark
-* **Databases:** Oracle, MS SQL Server, PostgreSQL, MongoDB
-* **Infrastructure:** AWS (IAM), Terraform, Docker, Kubernetes
-* **Tools:** Maven, Git, Jira, MS Teams, Jenkins, Eclipse, VS Code
+### **Backend Engineering**
+* **Languages:** Java 17, Java 8, Python
+* **Frameworks:** Spring Boot, Microservices, REST APIs
+* **Tools:** Maven, Jenkins, Git, Jira, Eclipse, VS Code
+
+### **Data Engineering**
+* **Platforms:** Databricks, Apache Spark, Hive
+* **Processing:** ETL/ELT Pipelines, Distributed Computing, Pandas
+* **Databases:** PostgreSQL, MongoDB, Oracle, MS SQL Server
+
+### **Cloud & Infrastructure**
+* **Cloud:** AWS (IAM, S3, Glue, Lambda)
+* **DevOps:** Terraform, Docker, Kubernetes, CI/CD Workflows
 
 ## 🛠️ Featured Projects
 
-* **[Healthcare Management Portal](https://github.com/pokhrel-dev/healthcare-management-portal)** - Secure patient portal with automated ETL and microservices architecture.
-* **[Banking Systems Automation](https://github.com/pokhrel-dev/banking-data-engineering)** - Scalable backend ledger system and distributed data processing.
-
----
+* **[Healthcare Management Portal](https://github.com/pokhrel-dev/healthcare-management-portal)** - A secure patient portal built with a microservices architecture and automated data processing.
+* **[Banking Systems Automation](https://github.com/pokhrel-dev/banking-data-engineering)** - Engineered scalable backend systems for distributed ledger processing and automated financial reporting.
