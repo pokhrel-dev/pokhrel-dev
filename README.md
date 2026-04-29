@@ -10,8 +10,8 @@ Senior Engineer with 6+ years of experience bridging the gap between high-perfor
 * **Tools:** Maven, Jenkins, Git, Jira, Eclipse, VS Code
 
 ### **Data Engineering**
-* **Platforms:** Databricks, Apache Spark, Hive
-* **Processing:** ETL/ELT Pipelines, Distributed Computing, Pandas
+* **Platforms & Tools:** Databricks, Apache Spark, Hive, Jupyter Notebook
+* **Processing & Analysis:** ETL/ELT Pipelines, Distributed Computing, Python (Pandas)
 * **Databases:** PostgreSQL, MongoDB, Oracle, MS SQL Server
 
 ### **Cloud & Infrastructure**
