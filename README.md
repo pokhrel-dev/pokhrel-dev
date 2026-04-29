@@ -1,4 +1,4 @@
-# Senior Software & Data Engineer 👋
+# Software & Data Engineer 👋
 
 Senior Engineer with 6+ years of experience bridging the gap between high-performance Java backend systems and scalable data engineering pipelines. I specialize in building robust, cloud-native architectures that handle complex data processing at scale.
 
