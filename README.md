@@ -22,12 +22,11 @@ Passionate about transforming complex data challenges into high-performance, dis
 
 ---
 
-### 📊 GitHub Metrics
+## 📊 GitHub Metrics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pokhrel-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-dev&layout=compact&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pokhrel-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Stats Card" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-dev&layout=compact&theme=nord" alt="Top Languages" height="180px" />
 </p>
----
 
 ### 🛠️ Featured Professional Experience
 
@@ -55,7 +54,12 @@ Passionate about transforming complex data challenges into high-performance, dis
 
 ---
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/pradeep-pokhrel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+<a href="https://linkedin.com/in/pradeep-pokhrel" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR_EMAIL_HERE" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 </p>
