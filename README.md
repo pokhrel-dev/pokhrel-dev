@@ -24,8 +24,8 @@ Passionate about transforming complex data challenges into high-performance, dis
 
 ## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokhrel-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-dev&layout=compact&theme=nord" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pokhrel-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-dev&layout=compact&theme=radical&cache_seconds=1800" height="180px" />
 </p>
 
 ### 🛠️ Featured Professional Experience
