@@ -1,24 +1,61 @@
-# Software & Data Engineer 👋
+# Hi, I'm Pradeep 👋 
+## Building Scalable Data Architectures | Distributed Systems | Cloud Infrastructure
 
-Senior Engineer with 6+ years of experience bridging the gap between high-performance Java backend systems and scalable data engineering pipelines. I specialize in building robust, cloud-native architectures that handle complex data processing at scale.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&width=500&lines=Expert+in+Spark+%26+Databricks;AWS+and+Azure+Certified;Event-Driven+Architecture;6%2B+Years+of+Big+Data+Experience" alt="Typing SVG" />
+</p>
 
-## 🚀 Technical Expertise
+Passionate about transforming complex data challenges into high-performance, distributed solutions. My focus is on engineering resilient ETL/ELT pipelines and real-time streaming architectures that drive business value across **Banking, Healthcare, and Retail** sectors.
 
-### **Backend Engineering**
-* **Languages:** Java 17, Java 8, Python
-* **Frameworks:** Spring Boot, Microservices, REST APIs
-* **Tools:** Maven, Jenkins, Git, Jira, Eclipse, VS Code
+---
 
-### **Data Engineering**
-* **Platforms & Tools:** Databricks, Apache Spark, Hive, Jupyter Notebook
-* **Processing & Analysis:** ETL/ELT Pipelines, Distributed Computing, Python (Pandas)
-* **Databases:** PostgreSQL, MongoDB, Oracle, MS SQL Server
+### 🚀 Technical Expertise
 
-### **Cloud & Infrastructure**
-* **Cloud:** AWS (IAM, S3, Glue, Lambda)
-* **DevOps:** Terraform, Docker, Kubernetes, CI/CD Workflows
+| Category | High-Impact Stack |
+| :--- | :--- |
+| **Languages** | `Python` • `SQL (Advanced)` • `Java 8, 11, 17` • `Scala` • `Bash` |
+| **Data Engineering** | `Apache Spark (PySpark)` • `dbt` • `Databricks` • `Kafka` • `Flink` |
+| **Cloud Platforms** | `AWS (Glue, Redshift, EMR, Lambda)` • `Azure (ADF, Synapse)` • `GCP` |
+| **Warehousing** | `Snowflake` • `Delta Lake` • `PostgreSQL` • `BigQuery` |
+| **Orchestration** | `Airflow` • `Terraform` • `Docker` • `GitHub Actions` • `Jenkins` |
+| **ML & Analytics** | `MLflow` • `SageMaker` • `Pandas` • `Power BI` • `Tableau` |
 
-## 🛠️ Featured Projects
+---
 
-* **[Healthcare Management Portal](https://github.com/pokhrel-dev/healthcare-management-portal)** - A secure patient portal built with a microservices architecture and automated data processing.
-* **[Banking Systems Automation](https://github.com/pokhrel-dev/banking-data-engineering)** - Engineered scalable backend systems for distributed ledger processing and automated financial reporting.
+### 📊 GitHub Metrics
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pokhrel-dev&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokhrel-dev&layout=compact&theme=nord" />
+</p>
+---
+
+### 🛠️ Featured Professional Experience
+
+#### 🏦 Banking & Financial Analytics
+*Architecting distributed ledger processing and fraud detection systems.*
+* **Impact:** Managed Spark pipelines processing **3 TB/day**, reducing fraud alert latency by **35%**.
+* **Tech:** Java 17, Spring Boot, Apache Kafka, Snowflake, AWS Glue.
+
+#### 🏥 Healthcare Claims & Risk Scoring
+*Consolidated eligibility and EHR data into secure, HIPAA-compliant data lakes.*
+* **Impact:** Developed dbt models that reduced actuarial reporting turnaround by **15%**.
+* **Tech:** Azure Data Factory, Snowflake, dbt, Great Expectations.
+
+#### 🛒 Retail & Supply Chain Analytics
+*Engineered ingestion frameworks to migrate legacy on-prem data to cloud clusters.*
+* **Impact:** Improved SKU catalog processing speed and inventory update latency by **25%**.
+* **Tech:** PySpark, AWS Redshift, Terraform, Apache Airflow.
+
+---
+
+### 📜 Certifications
+* **AWS Certified Data Engineer** – Associate
+* **Azure Data Engineer Associate** (DP-203)
+* **AWS Certified Cloud Practitioner**
+
+---
+
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/pradeep-pokhrel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
+</p>
